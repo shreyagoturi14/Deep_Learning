@@ -30,7 +30,6 @@ A perceptron is a simple neural-network model that calculates a weighted sum of 
 The model learns the weights during training by adjusting them when it makes incorrect predictions.
 
 ## What I Implemented
-
 The notebook covers the following steps:
 
 1. Loaded the placement dataset using Pandas.
