@@ -49,7 +49,6 @@ A perceptron can be used for simple binary classification problems such as:
 * Defective vs. non-defective products
 * Simple approval/rejection systems
 * Basic risk classification
-
 However, modern real-world applications with complex data generally require more advanced machine learning or deep learning models.
 
 ## Advantages
