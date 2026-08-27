@@ -46,15 +46,15 @@ Overfitting-Techniques/
 ```
 
 ## Technologies Used:
-Python
-TensorFlow / Keras
-NumPy
-Pandas
-Scikit-learn
-Matplotlib
+Python,
+TensorFlow / Keras,
+NumPy,
+Pandas,
+Scikit-learn,
+Matplotlib,
 Seaborn
-Key Learning
 
+Key Learning
 Through these experiments, I learned how overfitting affects neural networks and how different techniques can be used to improve model generalization.
 
 Technique	Main Purpose:
@@ -64,7 +64,7 @@ Batch Normalization	Stabilize neural-network training
 Real-World Relevance
 
 
-## Overfitting control is important in real-world Deep Learning applications such as:
+Overfitting control is important in real-world Deep Learning applications such as:
 
 Customer churn prediction
 Fraud detection
