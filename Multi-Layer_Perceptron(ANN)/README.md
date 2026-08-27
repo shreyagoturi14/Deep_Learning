@@ -33,8 +33,7 @@ The model uses the following 8 features:
 
 * `0` → Customer stayed
 * `1` → Customer exited
-
----
+* 
 
 ## 🧠 Artificial Neural Network
 
@@ -48,7 +47,6 @@ An ANN consists of interconnected neurons organized into layers. Each neuron rec
 
 In this project, the ANN learns the relationship between customer attributes and churn behavior.
 
----
 
 ## 🏗️ Model Architecture
 
@@ -78,7 +76,6 @@ Output Layer (1 neuron, Sigmoid)
 Churn Prediction (0 / 1)
 ```
 
----
 
 ## ⚙️ Implementation Steps
 
@@ -133,7 +130,6 @@ Probability > 0.5 → 1 (Exited)
 Probability ≤ 0.5 → 0 (Stayed)
 ```
 
----
 
 ## 📊 Results
 
@@ -169,17 +165,15 @@ Customer Retention Strategy
 A bank could use such a system to identify potentially dissatisfied customers and offer appropriate retention measures such as personalized services, improved support, or suitable product recommendations.
 
 The same concept can be applied in:
-
 * Banking
 * Telecom
 * Insurance
 * Subscription services
 * E-commerce
 * SaaS businesses
+* 
 
----
-
-## ✅ Advantages of ANN for Churn Prediction
+## Advantages of ANN for Churn Prediction
 
 * Can learn complex relationships between multiple customer features
 * Handles multiple input variables simultaneously
@@ -195,7 +189,6 @@ The same concept can be applied in:
 * Accuracy alone may not be sufficient for evaluating churn prediction
 * ANN predictions can be less interpretable than simpler models
 
----
 
 ## 🛠️ Technologies Used
 
@@ -205,7 +198,6 @@ The same concept can be applied in:
 * **Scikit-learn** — Data preprocessing, train-test split, and evaluation
 * **TensorFlow / Keras** — ANN implementation and training
 
----
 
 ## 📁 Project Structure
 
@@ -215,8 +207,6 @@ Customer-Churn-Prediction-ANN/
 ├── Customer Churn Prediction using ANN.ipynb
 └── README.md
 ```
-
----
 
 ## 🎓 Key Learnings
 
@@ -234,9 +224,8 @@ Through this project, I gained practical experience in:
 * Converting prediction probabilities into binary classes
 * Evaluating a classification model
 
----
 
-## 🚀 Future Improvements
+## Future Improvements
 
 Possible improvements to this project include:
 
@@ -248,11 +237,9 @@ Possible improvements to this project include:
 * Experimenting with different ANN architectures
 * Comparing ANN performance with traditional machine learning models
 
----
 
-## 📌 Conclusion
+##  Conclusion
 
 This project demonstrates how an **Artificial Neural Network can be applied to a real-world classification problem** such as customer churn prediction.
 
 It provides a practical foundation for understanding how neural networks process structured data, learn patterns through multiple layers, and generate predictions for business decision-making.
-
