@@ -11,7 +11,7 @@ In this project, an ANN is trained on customer information to perform **binary c
 * `0` → Customer stayed
 * `1` → Customer exited
 * 
-## 🎯 Objective
+## Objective
 
 The objective of this project is to build a neural network that learns patterns from customer attributes and predicts whether a customer is likely to leave the bank.
 
@@ -35,7 +35,7 @@ The model uses the following 8 features:
 * `1` → Customer exited
 * 
 
-## 🧠 Artificial Neural Network
+##  Artificial Neural Network
 
 An **Artificial Neural Network (ANN)** is a machine learning model inspired by the structure of biological neural networks.
 
@@ -48,7 +48,7 @@ An ANN consists of interconnected neurons organized into layers. Each neuron rec
 In this project, the ANN learns the relationship between customer attributes and churn behavior.
 
 
-## 🏗️ Model Architecture
+##  Model Architecture
 
 The implemented ANN contains:
 
@@ -131,7 +131,7 @@ Probability ≤ 0.5 → 0 (Stayed)
 ```
 
 
-## 📊 Results
+##  Results
 
 The model achieved the following accuracy:
 
@@ -144,7 +144,7 @@ The testing accuracy is slightly higher than the training accuracy in this run. 
 
 ---
 
-## 🌍 Real-World Application
+##  Real-World Application
 
 Customer churn prediction can help organizations identify customers who may be at risk of leaving.
 
@@ -181,7 +181,7 @@ The same concept can be applied in:
 * Can be extended with additional features and deeper architectures
 * Provides a foundation for understanding modern deep learning models
 
-## ⚠️ Limitations
+##  Limitations
 
 * Requires appropriate preprocessing and feature scaling
 * Model performance depends on the quality and representativeness of the data
@@ -190,7 +190,7 @@ The same concept can be applied in:
 * ANN predictions can be less interpretable than simpler models
 
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 * **Python**
 * **Pandas** — Data loading and manipulation
@@ -228,7 +228,6 @@ Through this project, I gained practical experience in:
 ## Future Improvements
 
 Possible improvements to this project include:
-
 * Confusion Matrix
 * Precision, Recall and F1-Score
 * ROC-AUC evaluation
