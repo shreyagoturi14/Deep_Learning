@@ -11,7 +11,6 @@ The following techniques are implemented using TensorFlow/Keras:
 
 ## What is Overfitting?
 **Overfitting** occurs when a model learns the training data too closely and performs poorly on unseen data.
-
 The goal is to build a model that learns useful patterns and **generalizes well to new data**.
 
 
